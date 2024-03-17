@@ -1,0 +1,48 @@
+Booking Details:
+First Name: Meena
+Last Name: Naresh
+Email: sdsad@gmail.com
+Number of Rooms: 2
+Room Type: Single
+AC Preference: AC
+Phone Number: 9759465454
+Address: chennai
+Available Rooms: 73
+Total Cost for 2 AC Single room(s): ₹6000
+Room Rate: ₹3000
+File Upload Details: Upload
+Check-in Date :2/3/2024
+Check-out Date ::5/3/2024
+
+Booking Details:
+First Name: Meena
+Last Name: Naresh
+Email: sdsad@gmail.com
+Number of Rooms: 2
+Room Type: Single
+AC Preference: AC
+Phone Number: 9759465454
+Address: chennai
+Available Rooms: 71
+Total Cost for 2 AC Single room(s): ₹6000
+Room Rate: ₹3000
+File Upload Details: Upload
+Check-in Date :2/3/2024
+Check-out Date ::5/3/2024
+
+Booking Details:
+First Name: meena
+Last Name: naresh
+Email: jnjn
+Number of Rooms: 2
+Room Type: Double
+AC Preference: AC
+Phone Number: 9952639326
+Address: chennai
+Available Rooms: 73
+Total Cost for 2 AC Double room(s): ₹4000
+Room Rate: ₹2000
+File Upload Details: Upload
+Check-in Date :2/3/2024
+Check-out Date ::2/3/2024
+

@@ -1,0 +1,27 @@
+Customer Name: meena
+Customer Contact: 995263933
+
+Selected Items:
+Burger x 1 - ₹100
+Pizza x 2 - ₹400
+Pasta x 3 - ₹450
+Friend Rice x 4 - ₹400
+
+Total Price: ₹1350
+GST (18%): ₹243.0
+Grand Total: ₹1593.0
+Avaliable Table :10
+
+Customer Name: meena
+Customer Contact: 9348349583948
+
+Selected Items:
+Burger x 1 - ₹100
+Sandwich x 2 - ₹160
+Noodles x 4 - ₹600
+
+Total Price: ₹860
+GST (18%): ₹154.8
+Grand Total: ₹1014.8
+Avaliable Table :10
+
